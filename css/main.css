@@ -1365,6 +1365,13 @@ header .logo a {
 	color: white;
 	padding: 1em;
 }
+.intro-content .resume:hover{
+	box-sizing: border-box;
+	border: 1px solid #FF0077;
+	color: white;
+	padding: 1.2em;
+	text-transform: uppercase;
+}
 .intro-content .intro-position {
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
